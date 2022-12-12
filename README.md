@@ -2,6 +2,7 @@
 
 [如何实现一个babel插件](https://github.com/Bill70058/babel-note)
 
+项目中的[插件代码](https://github.com/QuarkGluonPlasma/babel-plugin-exercize)都来自神光大佬的
 ### 项目启动
 ```
 cd babel-demo
