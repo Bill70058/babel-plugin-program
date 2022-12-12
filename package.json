@@ -140,7 +140,9 @@
     "resetMocks": true
   },
   "babel": {
-    "plugins": ["./node_modules/insert-plugin"],
+    "plugins": [["./node_modules/insert-track-plugin", {
+        "trackerPath": "tracker"
+    }]],
     "presets": [
       "react-app"
     ]
